@@ -1,0 +1,15 @@
+입력
+C3codingOnlineJudge
+
+출력
+C3codingOn
+lineJudge
+
+입력
+OneTwoThreeFourFiveSixSevenEightNineTen
+
+출력
+OneTwoThre
+eFourFiveS
+ixSevenEig
+htNineTen
